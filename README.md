@@ -95,12 +95,6 @@ https://github.com/Santhoshi003/My-python-project
 
 ---
 
-## Portfolio Preview
-
-![Portfolio Screenshot](./public/profile.png)
-
----
-
 ## Installation and Setup
 
 Clone the repository:
