@@ -6,21 +6,21 @@ A modern responsive portfolio website built using React, Tailwind CSS, Framer Mo
 
 ## Live Portfolio
 
-Live Website:
-YOUR_VERCEL_LINK
+Live Website:  
+https://portfolio-site-murex-tau.vercel.app/
 
 ---
 
 ## GitHub Repository
 
-GitHub Repository:
-https://github.com/Santhoshi003
+GitHub Repository:  
+https://github.com/Santhoshi003/Portfolio-site
 
 ---
 
 ## Features
 
-- Responsive modern UI
+- Modern responsive UI
 - Animated Hero Section
 - Framer Motion animations
 - Parallax scrolling effects
@@ -33,6 +33,8 @@ https://github.com/Santhoshi003
 - Smooth scrolling
 - Accessibility support
 - Mobile responsive design
+- SEO optimized
+- Dynamic project cards
 
 ---
 
@@ -52,23 +54,50 @@ https://github.com/Santhoshi003
 ## Projects Included
 
 ### Offline AI Chatbot
+
 AI-powered offline chatbot using Ollama and Llama 3.2.
 
-Repository:
+Repository:  
 https://github.com/Santhoshi003/offline_chatbot
 
 ---
 
 ### TOTP MFA Authentication
+
 Secure multi-factor authentication service using Redis.
 
-Repository:
+Repository:  
 https://github.com/Santhoshi003/TOTP-Based_Multi-Factor_Authentication
 
 ---
 
 ### AWS Face Recognition System
+
 AI-powered attendance and face recognition system using AWS Rekognition and Lambda.
+
+---
+
+### Lost and Found Tracker
+
+AWS-based lost and found management platform.
+
+Repository:  
+https://github.com/Santhoshi003/Lost_and_Found
+
+---
+
+### ML Python Project
+
+Machine learning based Python project with automation.
+
+Repository:  
+https://github.com/Santhoshi003/My-python-project
+
+---
+
+## Portfolio Preview
+
+![Portfolio Screenshot](./public/profile.png)
 
 ---
 
@@ -77,13 +106,13 @@ AI-powered attendance and face recognition system using AWS Rekognition and Lamb
 Clone the repository:
 
 ```bash
-git clone https://github.com/Santhoshi003/portfolio-website.git
+git clone https://github.com/Santhoshi003/Portfolio-site.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd portfolio-website
+cd Portfolio-site
 ```
 
 Install dependencies:
@@ -132,10 +161,14 @@ src
 
 Laxmi Santhoshi Anaparthi
 
-- GitHub:
+- GitHub:  
   https://github.com/Santhoshi003
 
-- LinkedIn:
+- LinkedIn:  
   https://www.linkedin.com/in/santhoshi-anaparthi-164b72288/
 
 ---
+
+## License
+
+This project is developed for educational and portfolio purposes.
